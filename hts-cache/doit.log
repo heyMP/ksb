@@ -1,0 +1,8 @@
+http://www.keystonesportsbeat.com -O . -N %h%p/%n/index%[page].%t -WqQ%v -s0
+File generated automatically on Tue, 26 Jan 2016 14:43:43, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

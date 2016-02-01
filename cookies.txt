@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.keystonesportsbeat.com	TRUE	/	FALSE	1999999999	crumb	543c6b7dff
+www.keystonesportsbeat.com	TRUE	/	FALSE	1999999999	JSESSIONID	S7DJTFhJUt3G318PeoqVkOGsxDtkau2GabirR63-aYbS-JxlJGKaeg
+
